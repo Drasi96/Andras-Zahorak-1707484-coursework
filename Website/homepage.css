@@ -1,0 +1,21 @@
+#cv{
+  max-width: 300px;
+  max-height: 300px;
+}
+#contact{
+  max-width: 400px;
+  max height: 400px;
+}
+#jumbo{
+  background-color: #191919;
+  color: #FFF056;
+  font: 400 100px/0.8 'Cookie', Helvetica, sans-serif;
+ color: #FFF056;
+ text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+body{
+  background-color: #DFE2DB;
+  font: 400 25px/0.8 'Cookie', Helvetica, sans-serif;
+ color: #A8CD1B;
+ text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}

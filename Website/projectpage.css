@@ -1,0 +1,52 @@
+body{
+  width:auto;
+}
+img{
+  max-width: 1000px
+}
+form{
+ /*Colourings*/
+ background-color: orange;
+ /* Content */
+ width: 200px;
+ padding-left: 30px;
+ border-color: brown;
+ border-style: ridge;
+ border-width: 5px;
+ float:right;
+/* Padding */
+margin-left: 1600px;
+display: inline-block;
+}
+h1 {
+  color: red;
+  margin-bottom: : 100px;
+  margin-left: 1000px;
+  display: inline-block;
+
+}
+
+#loginBox{
+  margin-top: -80px;
+}
+#mainpic{
+  margin-top: -100px;
+
+}
+#username{
+  max-width: 120px;
+}
+#password{
+  max-width: 120px;
+}
+#login{
+  margin-bottom: 20px;
+}
+#signup{
+  margin-bottom: 20px;
+}
+#mm{
+  font: 400 15px/1.5 'Pacifico', Helvetica, sans-serif;
+  color: #2b2b2b;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+}
